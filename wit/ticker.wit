@@ -1,5 +1,3 @@
-package jabratech:provider-ticker@0.1.1;
-
 interface ticker {
     use jabratech:common/types@0.1.0.{currency, greeks, instrument-kind};
 
