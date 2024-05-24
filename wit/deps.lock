@@ -1,4 +1,4 @@
 [common]
-url = "https://github.com/jabratech/wit-common/archive/v0.1.0.tar.gz"
-sha256 = "fec21eec4023d38aeffa45d1e70c52be6d974b221863bb31bccfaf466c544279"
-sha512 = "01003c3b06e622815a8b0692af18ab36c016fadc81f37dad354a9aa0760d0c063c0d382c3fd488aced5bff68882ff26e81d30caaa7d9c434ec79a649405dc090"
+url = "https://github.com/jabratech/wit-common/archive/v0.1.1.tar.gz"
+sha256 = "c41b3b626c0b24a7f5cef4b1f63aab8f1cb9255dbfaca51bfb38400550029508"
+sha512 = "ee2b3c620a11d23627e9f58631500fec4b220ab7cd5f6b718a1c7e3e426f0ed35588e2418f36f74020ce2dfeaf6a2993df88104f50442a3c8cf8ea268184acad"
